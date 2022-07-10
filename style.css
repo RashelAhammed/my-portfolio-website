@@ -1,0 +1,75 @@
+h1{
+  font-size: 40px;
+  font-weight: 700;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0;
+}
+.name-highlite-1{
+  color: rgb(244, 240, 9);
+}
+.name-highlite-2{
+  color:olivedrab;
+}
+.half-with{
+float: left;
+width: 40%;
+margin-left: 10%;
+padding: 2%;
+}
+.half-with img{
+  width:100%;
+}
+.top-section{
+  height: 500px;
+  background-image: url(image/footer-bg.png);
+}
+.buttone{
+text-decoration: none;
+background-color: darkgoldenrod;
+color: white;
+padding: 13px;
+border-radius: 10px;
+margin-top: 10px;
+}
+.headding{
+  text-align: center;
+  margin-top: 25px;
+  
+}
+.my-expertise{
+  height: 500px;
+  background-image: url(image/footer-bg.png);
+}
+.half-with-experience{
+  float: left;
+  margin: 8%;
+  width: 30%;
+  padding-left: 45px;
+  box-shadow: 10px 10px 15px rgb(44, 150, 44);
+
+}
+.experience-hilighter{
+  color: rgb(17, 200, 17);
+  font-size: 15px;
+  
+}
+.experience-section{
+  height: 350px;
+  margin-top: 0px;
+  background-image: url(image/biography-bg.png);
+}
+.footer{
+  background-image: url(image/biography-bg.png);
+  text-align: center;
+  height: 100px;
+  
+}
+#side-border-1{
+  border-left: 5px solid orange;
+}
+#side-border-2{
+  border-left: 5px solid tomato;
+}
